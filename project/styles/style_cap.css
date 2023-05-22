@@ -1,0 +1,23 @@
+QWidget{
+    background-color: rgb(132, 182, 185);
+}
+QPushButton{
+    background-color: burlywood;
+    font-family: 'Fixedsys';
+}
+QLabel{
+    font-family: 'Fixedsys';
+}
+QLineEdit{
+    background-color: white;
+}
+QMainWindow{
+    border-radius: 100%;
+}
+#capch{
+    font-size: 40px;
+    color: red;
+    background-color: yellow;
+    font-family: 'MV Boli';
+    text-decoration:line-through;
+}

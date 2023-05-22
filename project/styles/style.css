@@ -1,0 +1,15 @@
+QMainWindow{
+    background-color: rgb(132, 182, 185);
+}
+QPushButton{
+    background-color: burlywood;
+    font-family: 'Fixedsys';
+}
+QLabel{
+    font-family: 'Fixedsys';
+}
+#reg{
+    background-color: rgb(132, 182, 185);
+    color: blue;
+    border-radius: 5px;
+}

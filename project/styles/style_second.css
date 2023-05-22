@@ -1,0 +1,21 @@
+QMainWindow{
+    background-color: rgb(132, 182, 185);
+}
+.QLabel{
+    font-family: 'Fixedsys';
+    text-align: center;
+}
+.QPushButton{
+    background-color: burlywood;
+    font-family: 'Fixedsys';
+}
+.QRadioButton{
+    font-family: 'Fixedsys';
+}
+.QComboBox{
+    background-color: white;
+}
+.QLineEdit{
+    background-color: white;
+}
+
